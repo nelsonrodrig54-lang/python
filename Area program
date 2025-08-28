@@ -1,0 +1,14 @@
+"""
+    write a python program that determines the area of a rectangle based on length by width inputs
+"""
+
+#declare length and base and assign numbers to them
+length=5
+width=10
+
+
+# calculate area= length * width
+area = length * width
+
+# print a message displaying the area of the rectangle
+print("A triangle with a length of", length, "and a width of", width, "has an area of", area + ".")
